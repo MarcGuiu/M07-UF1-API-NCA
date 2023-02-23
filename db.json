@@ -5,18 +5,6 @@
       "concept": "hello",
       "import": 200,
       "telefon": 123123123
-    },
-    {
-      "id": 2,
-      "concept": "Super",
-      "import": 100,
-      "telefon": 123997243
-    },
-    {
-      "id": 3,
-      "concept": "Transf3",
-      "import": 500,
-      "telefon": 342776896
     }
   ]
 }
