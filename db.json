@@ -1,11 +1,10 @@
 {
-  "posts": [
+  "transfers": [
     {
       "id": 1,
-      "title": "hello"
+      "concept": "hello",
+      "import": 200,
+      "telefon": 123123123
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
