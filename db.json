@@ -18,23 +18,23 @@
       "importDiners": 1200,
       "telefon": 123123125
     },
-        {
+    {
       "id": 4,
       "concept": "hola2",
       "importDiners": 34,
       "telefon": 123123125
     },
-        {
+    {
       "id": 5,
       "concept": "hola3",
       "importDiners":2130,
       "telefon": 123123125
     },
-        {
+    {
       "id": 6,
       "concept": "hola4",
       "importDiners": 9,
       "telefon": 123123125
-    },
+    }
   ]
 }
