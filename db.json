@@ -3,19 +3,19 @@
     {
       "id": 1,
       "concept": "hello",
-      "import": 200,
+      "importDiners": 200,
       "telefon": 123123123
     },
     {
       "id": 2,
       "concept": "hola",
-      "import": 10,
+      "importDiners": 10,
       "telefon": 123123125
     },
     {
       "id": 3,
       "concept": "adeu",
-      "import": 1200,
+      "importDiners": 1200,
       "telefon": 123123125
     }
   ]
